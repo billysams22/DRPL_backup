@@ -26,4 +26,4 @@ public class CreateUserRequest {
     private String institution;
     private String department;
     private String position;
-} 
+}
